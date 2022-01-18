@@ -1,0 +1,11 @@
+C:\Users\dilar\source\repos\WindowsFormsApp-Matching\WindowsFormsApp-Matching\bin\Debug\WindowsFormsApp-Matching.exe.config
+C:\Users\dilar\source\repos\WindowsFormsApp-Matching\WindowsFormsApp-Matching\bin\Debug\WindowsFormsApp-Matching.exe
+C:\Users\dilar\source\repos\WindowsFormsApp-Matching\WindowsFormsApp-Matching\bin\Debug\WindowsFormsApp-Matching.pdb
+C:\Users\dilar\source\repos\WindowsFormsApp-Matching\WindowsFormsApp-Matching\obj\Debug\WindowsFormsApp-Matching.csproj.AssemblyReference.cache
+C:\Users\dilar\source\repos\WindowsFormsApp-Matching\WindowsFormsApp-Matching\obj\Debug\WindowsFormsApp-Matching.csproj.SuggestedBindingRedirects.cache
+C:\Users\dilar\source\repos\WindowsFormsApp-Matching\WindowsFormsApp-Matching\obj\Debug\WindowsFormsApp_Matching.Form1.resources
+C:\Users\dilar\source\repos\WindowsFormsApp-Matching\WindowsFormsApp-Matching\obj\Debug\WindowsFormsApp_Matching.Properties.Resources.resources
+C:\Users\dilar\source\repos\WindowsFormsApp-Matching\WindowsFormsApp-Matching\obj\Debug\WindowsFormsApp-Matching.csproj.GenerateResource.cache
+C:\Users\dilar\source\repos\WindowsFormsApp-Matching\WindowsFormsApp-Matching\obj\Debug\WindowsFormsApp-Matching.csproj.CoreCompileInputs.cache
+C:\Users\dilar\source\repos\WindowsFormsApp-Matching\WindowsFormsApp-Matching\obj\Debug\WindowsFormsApp-Matching.exe
+C:\Users\dilar\source\repos\WindowsFormsApp-Matching\WindowsFormsApp-Matching\obj\Debug\WindowsFormsApp-Matching.pdb
